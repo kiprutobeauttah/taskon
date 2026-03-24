@@ -4,13 +4,13 @@ A beautiful and intuitive task management app built with React Native and Expo.
 
 ## Features
 
-- ✅ Create, edit, and delete tasks
-- 🎨 Beautiful UI with color-coded categories
-- 🚦 Priority levels (Low, Medium, High)
-- 📁 Organize tasks by categories (Today, Tomorrow, Work, Personal)
-- ✔️ Track completed tasks
-- 💾 SQLite database for persistent storage
-- 🌓 Dark mode support
+-  Create, edit, and delete tasks
+- Beautiful UI with color-coded categories
+-  Priority levels (Low, Medium, High)
+- Organize tasks by categories (Today, Tomorrow, Work, Personal)
+- Track completed tasks
+- SQLite database for persistent storage
+-  Dark mode support
 
 ## Get started
 
