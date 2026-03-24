@@ -1,4 +1,4 @@
-# Beauttahs - Beautiful Task Management 🎯
+# Beauttahs -  Task Management 
 
 A beautiful and intuitive task management app built with React Native and Expo.
 
