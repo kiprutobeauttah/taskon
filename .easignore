@@ -1,0 +1,46 @@
+# EAS Build Ignore File
+# Files and directories to exclude from EAS builds
+
+# System files
+AppData/
+.cache/
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# User directories
+C:/Users/
+/Users/
+~/*
+
+# Temp files
+*.log
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Dependencies (will be installed on build server)
+node_modules/
+
+# Build outputs
+dist/
+build/
+.expo/
+web-build/
+
+# Native folders
+ios/
+android/
+
+# Local env
+.env*.local
+
+# Cache
+.cache/
+*.cache
